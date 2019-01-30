@@ -17,7 +17,7 @@ h1, h2 {
 
 h1 {
     font-size: 50px;
-    color: salmon;
+    color: #f97e70;
 }
 
 h2 {
@@ -31,7 +31,7 @@ a {
 
 .main-text {
     text-align: justify;
-    color:#94877F;
+    color:#94877f;
     margin-bottom: 25px;
 }
 
