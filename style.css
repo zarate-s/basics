@@ -61,6 +61,7 @@ a {
     padding-right: 30px;
     padding-left: 30px;
     padding-bottom: 5px;
+    position: relative;
 }
 
 .other-posts {
@@ -98,4 +99,10 @@ a {
 .blog-post img {
     height: 150px;
     width: auto;
+}
+
+.date {
+    position: absolute;
+    top: 30px;
+    right: 30px;
 }
